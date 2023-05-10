@@ -1,9 +1,5 @@
 # This is a README title
 
-Hello World
+README.md 파일 생선
 
-- test
-
-* stuff
-
-> sldfkljfskl lkjsdf gdfj l;kj
+- git 세션 시작
