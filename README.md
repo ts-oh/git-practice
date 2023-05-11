@@ -1,4 +1,4 @@
-# This is a README title
+# This is a README
 
 README.md 파일 생선
 
